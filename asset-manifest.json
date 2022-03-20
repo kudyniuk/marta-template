@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marta-template/static/css/main.e6c13ad2.css",
+    "main.js": "/marta-template/static/js/main.dda2d35f.js",
+    "index.html": "/marta-template/index.html",
+    "main.e6c13ad2.css.map": "/marta-template/static/css/main.e6c13ad2.css.map",
+    "main.dda2d35f.js.map": "/marta-template/static/js/main.dda2d35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dda2d35f.js"
+  ]
+}
